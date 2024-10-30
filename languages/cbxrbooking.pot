@@ -1,0 +1,2255 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-09-09 18:17+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxrbooking-admin.php:103
+msgid "Default Form Setting"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:107
+msgid "Global Email Template"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:111
+msgid "Tools"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:130
+msgid "Following database tables will be reset/deleted."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:138
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:141
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"wordpress core option table"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:149 admin/class-cbxrbooking-admin.php:170
+msgid "Option Name"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:150 admin/class-cbxrbooking-admin.php:171
+msgid "Option ID"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:151 admin/class-cbxrbooking-admin.php:172
+msgid "Data"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:182 admin/class-cbxrbooking-admin.php:1028
+msgid "Date Format"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:183
+msgid ""
+"What will be the date format?. This date format will use in global "
+"activities like booking logs, calendar, branch, export etc."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:191 admin/class-cbxrbooking-admin.php:1037
+msgid "Time Format"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:192
+msgid ""
+"What will be the hour format? 12 or 24. This time format will use in global "
+"activities like booking logs, calendar, branch, export etc."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:197 admin/class-cbxrbooking-admin.php:1043
+msgid "12 Hour"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:198 admin/class-cbxrbooking-admin.php:1044
+msgid "24 Hour"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:215 admin/class-cbxrbooking-admin.php:1824
+msgid "Form show (after successful submission)"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:216 admin/class-cbxrbooking-admin.php:1825
+msgid "Show form after successful submission."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:223 admin/class-cbxrbooking-admin.php:1832
+msgid "Show Credit Under Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:224 admin/class-cbxrbooking-admin.php:1833
+msgid "Show Credit Under Form."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:227 admin/class-cbxrbooking-admin.php:245
+#: admin/class-cbxrbooking-admin.php:927 admin/class-cbxrbooking-admin.php:938
+#: admin/class-cbxrbooking-admin.php:951
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:228 admin/class-cbxrbooking-admin.php:246
+#: admin/class-cbxrbooking-admin.php:926 admin/class-cbxrbooking-admin.php:939
+#: admin/class-cbxrbooking-admin.php:950
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:240
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:241
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall. <strong>Please note that this can not be undone and you keep "
+"proper backup of full database before using feature.</strong>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:253
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:254
+#, php-format
+msgid ""
+"Resets plugin setting, tables created by this plugin and cbxrbooking type "
+"all posts\n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:256
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:266
+msgid "Header Image"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:267
+msgid ""
+"Url To email you want to show as email header.Upload Image by media uploader."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:275
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:276
+msgid ""
+"The text to appear at the email footer. Syntax available - <code>{sitename}"
+"</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:284
+msgid "Base Color"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:285
+msgid "The base color of the email."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:292
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:293
+msgid "The background color of the email."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:300
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:301
+msgid "The background colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:309
+msgid "Email Heading Color"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:316
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:317
+msgid "The body text colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:356
+msgctxt "Post Type General Name"
+msgid "Booking Forms"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:357
+msgctxt "Post Type Singular Name"
+msgid "Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:358
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:37
+msgid "CBX Booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:360
+msgid "Booking Forms"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:361
+msgid "View Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:362
+#: templates/admin/admin-booking-logs.php:55
+msgid "Add New Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:363
+msgid "Add New Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:364
+msgid "Edit Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:365
+msgid "Update Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:366
+msgid "Search Booking Form"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-cbxrbooking-admin.php:372 admin/class-cbxrbooking-admin.php:373
+msgid "CBX Restaurant Booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:400
+#: templates/admin/add-edit-branch-manager.php:37
+#: templates/admin/branch-manager-list.php:27
+msgid "Branch Manager"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:409
+msgid "Bookings Logs"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:423 admin/class-cbxrbooking-admin.php:424
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:430 admin/class-cbxrbooking-admin.php:431
+msgid "Addons"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:493 admin/class-cbxrbooking-admin.php:2453
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:506 includes/class-cbxrbooking-log.php:186
+msgid "Edit Branch"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:507 admin/class-cbxrbooking-admin.php:3176
+#: admin/class-cbxrbooking-admin.php:3213
+#: includes/class-cbxrbooking-branch-manager.php:50
+#: includes/class-cbxrbooking-log.php:186
+msgid "Edit"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:524
+msgid "View booking log for this form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:525 admin/class-cbxrbooking-admin.php:1856
+msgid "Click to reset form submission count"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:526 admin/class-cbxrbooking-admin.php:1857
+msgid "Reset Count"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:570
+msgid "Sorry! Requested booking record couldn't found."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:571 admin/class-cbxrbooking-admin.php:592
+#: admin/class-cbxrbooking-admin.php:607 admin/class-cbxrbooking-admin.php:621
+#: admin/class-cbxrbooking-admin.php:622
+msgid "Go to Bookings Log"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:582 admin/class-cbxrbooking-admin.php:637
+msgid "Invalid Form or Form id missing"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:591 admin/class-cbxrbooking-admin.php:646
+msgid "Sorry! Requested booking form couldn't found."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:606 admin/class-cbxrbooking-admin.php:657
+msgid "Booking form is disabled"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:620 admin/class-cbxrbooking-admin.php:670
+msgid "Sorry, Booking form setting missing, please edit the booking form once."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:647 admin/class-cbxrbooking-admin.php:658
+#: admin/class-cbxrbooking-admin.php:671
+msgid "Go to Booking Logs"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:749
+msgid "Number of logs per page:"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:764
+msgid "Number of branch manager per page:"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:774
+#: includes/class-cbxrbooking-branch-manager.php:157
+#: includes/class-cbxrbooking-log.php:340
+msgid "ID"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:775 includes/class-cbxrbooking-log.php:341
+msgid "Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:776 admin/class-cbxrbooking-admin.php:2436
+#: includes/class-cbxrbooking-log.php:342
+msgid "Branch"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:777 includes/class-cbxrbooking-log.php:343
+msgid "Code"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:778
+#: includes/class-cbxrbooking-formmeta-settings.php:584
+#: includes/class-cbxrbooking-formmeta-settings.php:587
+#: includes/class-cbxrbooking-formmeta-settings.php:649
+#: includes/class-cbxrbooking-formmeta-settings.php:654
+#: includes/class-cbxrbooking-log.php:344
+#: templates/admin/admin-booking-logform.php:258
+#: templates/admin/admin-booking-logform.php:264
+#: templates/public/cbxrbooking-public-form.php:173
+#: templates/public/cbxrbooking-public-form.php:177
+msgid "Date"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:779 includes/class-cbxrbooking-log.php:345
+#: templates/admin/admin-booking-logform.php:273
+#: templates/admin/admin-booking-logform.php:279
+#: templates/public/cbxrbooking-public-form.php:183
+#: templates/public/cbxrbooking-public-form.php:187
+msgid "Time"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:780 includes/class-cbxrbooking-log.php:346
+msgid "Size"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:781 includes/class-cbxrbooking-log.php:347
+#: templates/admin/admin-booking-logform.php:230
+#: templates/admin/admin-booking-logform.php:235
+#: templates/public/cbxrbooking-public-form.php:149
+#: templates/public/cbxrbooking-public-form.php:154
+msgid "Name"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:782 includes/class-cbxrbooking-log.php:348
+#: templates/admin/admin-booking-logform.php:244
+#: templates/admin/admin-booking-logform.php:249
+#: templates/public/cbxrbooking-public-form.php:160
+#: templates/public/cbxrbooking-public-form.php:165
+msgid "Email"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:783 includes/class-cbxrbooking-log.php:349
+#: templates/admin/admin-booking-logform.php:306
+#: templates/admin/admin-booking-logform.php:311
+#: templates/public/cbxrbooking-public-form.php:219
+#: templates/public/cbxrbooking-public-form.php:223
+msgid "Phone"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:784 includes/class-cbxrbooking-log.php:350
+#: templates/admin/admin-booking-logform.php:320
+#: templates/admin/admin-booking-logform.php:324
+#: templates/public/cbxrbooking-public-form.php:232
+#: templates/public/cbxrbooking-public-form.php:235
+msgid "Message"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:785 includes/class-cbxrbooking-log.php:351
+msgid "IP"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:786 admin/class-cbxrbooking-admin.php:2429
+#: includes/class-cbxrbooking-log.php:352
+#: templates/admin/admin-booking-logform.php:329
+msgid "Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:801 admin/class-cbxrbooking-admin.php:3399
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:834
+msgid "General"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:838
+msgid "Schedule"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:842
+msgid "Admin Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:846
+msgid "User Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:850 admin/class-cbxrbooking-admin.php:1450
+msgid "Booking Cancel"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:854
+msgid "Misc"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:858
+msgid "Integration"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:905
+msgid "Min Party Size"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:906
+msgid "Select minimum party size for bookings."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:913
+msgid "Max Party Size"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:914
+msgid "Select maximum party size for bookings."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:921
+msgid "Require Name"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:922
+msgid "Is Name is mandatory to request a booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:932
+msgid "Require Email"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:933
+msgid "Is Email address is mandatory to request a booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:944
+msgid "Require Phone"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:945
+msgid "Is Phone number is mandatory to request a booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:956
+msgid "Success Message"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:958
+msgid ""
+"Booking request submitted successfully. Booking code: <code>{booking_code}"
+"</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:960
+msgid "Syntax available - <code>{booking_code}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:964
+msgid "Guest Email Activation"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:965
+msgid ""
+"Enable/Disable (To make this feature work need to enable user email "
+"notification on and user email template should have the tag syntax <code>"
+"{activation_link}</code>)"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:973
+msgid "Default Booking Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:974
+msgid "What will be status when a new booking is requested?"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:982
+msgid "Banned Email"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:983
+msgid ""
+"You can block bookings from specific email addresses. Enter each email "
+"address on a separate line."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:987
+msgid "Email Address"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:991
+msgid "Banned IP"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:992
+msgid ""
+"\t\n"
+"You can block bookings from specific IP addresses. Enter each IP address on "
+"a separate line. Be aware that many internet providers rotate their IP "
+"address assignments, so an IP address may accidentally refer to a different "
+"user. Also, if you block an IP address used by a public connection, such as "
+"cafe WIFI, a public library, or a university network, you may inadvertantly "
+"block several people."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:998
+msgid "IP Address"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1002
+msgid "Text Before Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1003
+#: admin/class-cbxrbooking-admin.php:1010
+msgid "Text Appear Before Form."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1009
+msgid "Text After Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1016
+msgid "Show consent checkbox"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1017
+msgid ""
+"Show user consent checkbox to accept privacy policy. It will show wordpress "
+"default privacy policy page link"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1029
+msgid ""
+"What will be the date format?. This date format will use in this booking "
+"form activities like booking entry form, edit, email etc."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1038
+msgid ""
+"What will be the hour format? 12 or 24. This time format will use in this "
+"booking form activities like booking entry form, edit, email etc."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1049
+msgid "Week Days Schedule"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1050
+msgid ""
+"Define the weekly schedule during which you accept bookings. If there is day "
+"duplication/repeat then the schedule comes first in order of top to bottom "
+"gets the higher priority. <strong>Please note that, schedule added last will "
+"get the higher priority</strong>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1055
+msgctxt "Monday abbreviation"
+msgid "Mon"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1056
+msgctxt "Tuesday abbreviation"
+msgid "Tue"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1057
+msgctxt "Wednesday abbreviation"
+msgid "Wed"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1058
+msgctxt "Thursday abbreviation"
+msgid "Thu"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1059
+msgctxt "Friday abbreviation"
+msgid "Fri"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1060
+msgctxt "Saturday abbreviation"
+msgid "Sat"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1061
+msgctxt "Sunday abbreviation"
+msgid "Sun"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1066
+msgid "Specific Day Exceptions"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1067
+msgid ""
+"Define special opening hours for holidays, events or other needs. Leave the "
+"time empty if you're closed all day.<strong>Please note that, schedule added "
+"last will get the higher priority</strong>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1074
+msgid "Early Bookings"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1075
+msgid "Select how early customers can make their booking."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1083
+msgid "Late Bookings"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1084
+msgid "Select how late customers can make their booking."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1104
+msgid "Time Interval"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1105
+msgid "Select the number of minutes between each available time."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1113
+msgid "Week Starts On"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1114
+msgid "Select the first day of the week."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1123
+#: admin/class-cbxrbooking-admin.php:1263
+msgid "On/Off"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1124
+#: admin/class-cbxrbooking-admin.php:1264
+msgid "Status of Email"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1131
+#: admin/class-cbxrbooking-admin.php:1271
+#: admin/class-cbxrbooking-admin.php:1497
+#: admin/class-cbxrbooking-admin.php:1634
+msgid "E-mail Format"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1132
+#: admin/class-cbxrbooking-admin.php:1272
+#: admin/class-cbxrbooking-admin.php:1498
+#: admin/class-cbxrbooking-admin.php:1635
+msgid "Select the format of the E-mail."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1136
+#: admin/class-cbxrbooking-admin.php:1276
+#: admin/class-cbxrbooking-admin.php:1502
+#: admin/class-cbxrbooking-admin.php:1639
+msgid "HTML"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1137
+#: admin/class-cbxrbooking-admin.php:1277
+#: admin/class-cbxrbooking-admin.php:1503
+#: admin/class-cbxrbooking-admin.php:1640
+msgid "Plain"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1165
+#: admin/class-cbxrbooking-admin.php:1305
+#: admin/class-cbxrbooking-admin.php:1531
+#: admin/class-cbxrbooking-admin.php:1668
+msgid "To Email"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1166
+#: admin/class-cbxrbooking-admin.php:1532
+msgid "To Email Address."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1176
+#: admin/class-cbxrbooking-admin.php:1317
+#: admin/class-cbxrbooking-admin.php:1542
+msgid "Reply To"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1177
+#: admin/class-cbxrbooking-admin.php:1544
+msgid "Reply To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1188
+#: admin/class-cbxrbooking-admin.php:1555
+msgid "Subject"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1189
+#: admin/class-cbxrbooking-admin.php:1556
+msgid "Email Subject."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1191
+#: admin/class-cbxrbooking-admin.php:1339
+msgid "New Booking Request Notification"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1199
+#: admin/class-cbxrbooking-admin.php:1566
+msgid "Heading"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1200
+msgid "Email Template heading."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1202
+#: admin/class-cbxrbooking-admin.php:1351
+msgid "New Booking Request"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1210
+#: admin/class-cbxrbooking-admin.php:1577
+msgid "Body"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1211
+msgid ""
+"Email Body.  Syntax available - <code>{user_name}, {user_email}, "
+"{booking_date}, {booking_time}, {party_size}, {booking_phone}, "
+"{booking_message}, {booking_ip}, {booking_code}, {booking_status}, "
+"{booking_log_url}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1239
+#: admin/class-cbxrbooking-admin.php:1604
+msgid "CC"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1240
+#: admin/class-cbxrbooking-admin.php:1605
+msgid "Email CC, for multiple use comma."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1250
+#: admin/class-cbxrbooking-admin.php:1615
+msgid "BCC"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1251
+#: admin/class-cbxrbooking-admin.php:1616
+msgid "Email BCC, for multiple use comma"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1306
+msgid "To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1318
+msgid "Reply To Email Address."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1328
+msgid "New Booking User Email Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1329
+msgid "User gets email for new booking request"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1335
+msgid "New Request Email Subject"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1336
+msgid ""
+"Email subject user will receive when they make an initial booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1347
+msgid "New Request Email Heading"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1348
+msgid ""
+"Email heading user will receive when they make an initial booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1359
+msgid "New Request Email Body"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1360
+#, php-format
+msgid ""
+"Email content user will receive when they make an initial booking request. "
+"Syntax available - <code>{user_name}, {user_email}, {booking_date}, "
+"{booking_time}, {party_size}, {booking_phone}, {booking_message}, "
+"{booking_ip}, {booking_code}, {booking_status}, {activation_link}, "
+"{cancel_link}</code>. Please note,  <code>{cancel_link}</code> syntax works "
+"as per form's <a href=\"%s\"><strong>Booking Cancel</strong></a> setting."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1390
+msgid "Confirmed Booking User Email Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1391
+msgid "User gets email for booking request confirmed"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1397
+msgid "Booking Request Confirmed Email Subject"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1398
+msgid "Email subject user will receive when admin confirmed booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1401
+msgid "Booking Request Confirmed Notification"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1409
+msgid "Booking Request Confirmed Email Heading"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1410
+msgid "Email heading user will receive when admin confirmed booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1413
+msgid "Booking Request Confirmed"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1421
+msgid "Booking Request Confirmed Email Body"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1422
+msgid ""
+"Email content user will receive when admin confirmed booking request. Syntax "
+"available - <code>{user_name}, {user_email}, {booking_date}, {booking_time}, "
+"{party_size}, {booking_phone}, {booking_message}, {booking_ip}, "
+"{booking_code}, {booking_status}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1451
+msgid "Enable/Disable capability if guest can cancel booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1459
+msgid "Default Cancel Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1460
+msgid "Default status when user cancel a booking."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1464
+#: includes/class-cbxrbooking-helper.php:141
+msgid "Cancelled"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1465
+#: templates/admin/admin-booking-logform.php:334
+msgid "Cancel Request"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1470
+msgid "Early Cancel Booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1471
+msgid "Select how early customers can cancel their booking."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1479
+msgid "Cancel Request Admin Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1480
+msgid "Admin get email when user request to cancel booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1487
+msgid "Email Alert Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1488
+msgid ""
+"Enable/disable email alert. Admin will receive email alert when user request "
+"to cancel a booking."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1558
+msgid "Booking Cancel Request Notification"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1567
+msgid "Email Template Heading."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1569
+msgid "Booking Cancel Request"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1578
+msgid ""
+"Email Body. Syntax available - <code>{user_name}, {user_email}, "
+"{booking_date}, {booking_time}, {party_size}, {booking_phone}, "
+"{booking_message}, {booking_ip}, {booking_code}, {booking_status}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1626
+msgid "Cancel Approve User Alert"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1627
+msgid ""
+"User request for cancel booking, user will get either request processing "
+"email alert or request confirm alert when admin approve or default request "
+"status is cancelled."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1669
+msgid "To Email Address.  Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1680
+msgid "Cancel Request User Alert-Received"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1687
+msgid "Request Received Email Alert Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1688
+msgid ""
+"Enable/disable email alert. If not set auto cancel booking as per user "
+"request then user will get email alert saying booking cancel request is in "
+"progress."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1696
+msgid "Booking Cancel Request Email Subject"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1697
+msgid "Email subject user will receive when cancel request is in processing"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1700
+msgid "Booking Cancel Request Received Notification"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1709
+msgid "Booking Cancel Request Email Heading"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1710
+msgid "Email heading user will receive when cancel request is in processing."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1713
+msgid "Booking Cancel Request Received"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1721
+msgid "Booking Cancel Request Email Body"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1722
+msgid ""
+"Email content user will receive when cancel request is cancel-request. "
+"Syntax available - <code>{user_name}, {user_email}, {booking_date}, "
+"{booking_time}, {party_size}, {booking_phone}, {booking_message}, "
+"{booking_ip}, {booking_code}, {booking_status}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1746
+msgid "Cancel Request User Alert-Approved"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1753
+msgid "Request Cancelled Email Alert Status"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1754
+msgid ""
+"Enable/disable email alert. If set auto cancel on request or admin accept "
+"cancel request  then user will get email alert saying booking is cancelled."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1762
+msgid "Booking Request Canceled Email Subject"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1763
+msgid "Email subject user will receive when admin canceled booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1766
+msgid "Booking Request Canceled Notification"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1774
+msgid "Booking Request Canceled Email Heading"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1775
+msgid "Email heading user will receive when admin canceled booking request."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1778
+msgid "Booking Request Canceled"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1786
+msgid "Booking Request Canceled Email Body"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1787
+msgid ""
+"Email content user will receive when admin canceled booking request. Syntax "
+"available - <code>{user_name}, {user_email}, {booking_date}, {booking_time}, "
+"{party_size}, {booking_phone}, {booking_message}, {booking_ip}, "
+"{booking_code}, {booking_status}</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1844
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1845
+msgid "Enable/Disable Booking Limit."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1852
+msgid "Max Public Booking Count Limit"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1853
+msgid "Booking form will not display if booking count is crossed."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1854
+#, php-format
+msgid "\" class=\"cbxrbooking_form_resetcounter\">%d</span></strong>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1865
+msgid "Limit Crossed Message"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:1866
+msgid "General message after form successful submission."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2117
+msgid "All Branch"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2322
+#: public/class-cbxrbooking-public.php:1519
+msgid " to "
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2323
+#: public/class-cbxrbooking-public.php:1520
+msgid "Scroll to increment"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2324
+#: public/class-cbxrbooking-public.php:1521
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2340
+#: admin/class-cbxrbooking-admin.php:2362
+msgid "No Booking Form Found"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2341
+#: includes/class-cbxrbooking-log.php:318
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:87
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:118
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:120
+#: widgets/vc-element/class-cbxrbooking-wpbwidget.php:23
+msgid "Select Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2356
+#: public/class-cbxrbooking-public.php:1531
+#: public/class-cbxrbooking-public.php:1547
+msgid "This field is required."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2357
+#: public/class-cbxrbooking-public.php:1533
+#: public/class-cbxrbooking-public.php:1548
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2363
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:81
+msgid "Booking Form"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2366
+#: templates/admin/admin-booking-logform.php:369
+msgid "Update Booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2373
+#: includes/class-cbxrbooking-setting.php:627
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2374
+msgid "Window Title"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2422
+msgid "Get the Shortcode"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2476
+msgid "Off/On"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2499
+#: includes/class-cbxrbooking-log.php:300
+msgid "Select Branch"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2547
+#: public/class-cbxrbooking-public.php:275
+msgid "Invalid booking form or booking form doesn't exists in backend."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2560
+msgid "Booking form doesn't exists in backend."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2568
+msgid "Please enter your name"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2573
+msgid "Please enter email address"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2578
+msgid "Please provide valid email address"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2583
+msgid "Please enter your phone number"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2592
+msgid "Sorry! your email address is banned."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2616
+msgid "Party size is not in between minimum and maximum party size"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2624
+#: public/class-cbxrbooking-public.php:357
+msgid "Sorry, Date is empty"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2627
+#: public/class-cbxrbooking-public.php:360
+msgid "Sorry! Date is invalid."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2634
+#: public/class-cbxrbooking-public.php:367
+msgid "Sorry! Time is empty."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2638
+#: public/class-cbxrbooking-public.php:370
+msgid "Sorry! Time is invalid."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2745
+#, php-format
+msgid "Booking request updated successfully. Booking code: <code>%s</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2786
+msgid "Sorry! Some problem during updating, please try again."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2857
+#: public/class-cbxrbooking-public.php:645
+#, php-format
+msgid "Booking request submitted successfully. Booking code: <code>%s</code>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:2957
+#, php-format
+msgid ""
+"Sorry, you can not create more than one booking form in free version, <a "
+"target=\"_blank\" href=\"%s\">Grab Pro</a>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3012
+#, php-format
+msgid ""
+"Sorry, you can not create more than one branch in free version, <a "
+"target=\"_blank\" href=\"%s\">Grab Pro</a>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3064
+#, php-format
+msgid ""
+"Sorry, you can not delete or trash this form as there is at least one "
+"booking for this form. To delete this form please delete <a href=\"%s\">the "
+"bookings for this form.</a>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3126
+msgid "The name field character limit must be between 5 to 200."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3166
+msgid "Sorry! you don't have enough permission to update account."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3170
+msgid "Branch updated."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3180
+msgid "Add new"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3191
+msgid "You attempted to edit the branch that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3211
+msgid "Branch created successfully."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3224
+msgid "Sorry! Failed to add branch."
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3232
+msgid "Hacking attempt ?"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3263
+msgid "New Booking"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3269
+msgid "Booking Logs"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3370
+msgid "Free Support"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3372
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3374
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3380
+msgid "Try Pro Addon"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3399
+msgid "View settings"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3442
+#, php-format
+msgid ""
+"CBX Restaurant Booking Frontend Addon has been deactivated. CBX Restaurant "
+"Booking Frontend Addon V%s or any previous version is not compatible with "
+"CBX Restaurant Booking V%s or later. Please update CBX Restaurant Booking "
+"Frontend Addon to version V%s or later  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3454
+#, php-format
+msgid ""
+"CBX Restaurant Booking Pro Addon has been deactivated. CBX Restaurant "
+"Booking Pro Addon V%s or any previous version is not compatible with CBX "
+"Restaurant Booking V%s or later. Please update CBX Restaurant Booking Pro "
+"Addon to version V%s or later  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3461
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Restaurant Booking</strong> "
+"V%s - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3463
+#: admin/class-cbxrbooking-admin.php:3479
+#, php-format
+msgid ""
+"Check <a href=\"%s\">Plugin Setting</a> | <a href=\"%s\" target=\"_blank\">"
+"Learn More</a>"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3477
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Restaurant Booking</strong> V%s , enjoy the "
+"new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3510
+#, php-format
+msgid ""
+"CBX Restaurant Booking Frontend Addon V%s or any previous version is not "
+"compatible with CBX Restaurant Booking V%s or later. Please update CBX "
+"Restaurant Booking Frontend Addon to version V%s or later  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3513
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX Restaurant Booking Frontend Addon</a> "
+"enables frontend management for bookings, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3528
+#, php-format
+msgid ""
+"CBX Restaurant Booking Pro Addon V%s or any previous version is not "
+"compatible with CBX Restaurant Booking V%s or later. Please update CBX "
+"Restaurant Booking Pro Addon to version V%s or later  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3531
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX Restaurant Booking Pro Addon</a> has "
+"lots of pro and extended features, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxrbooking-admin.php:3626
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#9c27b0 !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#. %s template
+#: includes/cbxrbooking-functions.php:93
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:83
+msgid "Address: "
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:84
+msgid "City: "
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:85
+msgid "State: "
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:86
+msgid "Postal: "
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:87
+msgid "Country: "
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:158
+msgid "Branch name"
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:159
+#: templates/admin/add-edit-branch-manager.php:74
+msgid "Description"
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:160
+#: templates/admin/add-edit-branch-manager.php:84
+msgid "Address"
+msgstr ""
+
+#: includes/class-cbxrbooking-branch-manager.php:180
+#: includes/class-cbxrbooking-log.php:396
+msgid "Delete"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:294
+#: includes/class-cbxrbooking-formmeta-settings.php:308
+#: includes/class-cbxrbooking-formmeta-settings.php:1057
+msgid "Delete Textbox"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:307
+#: includes/class-cbxrbooking-formmeta-settings.php:1056
+msgid "Move Textbox"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:314
+#: templates/admin/branch-manager-list.php:28
+msgid "Add New"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:381
+#: includes/class-cbxrbooking-formmeta-settings.php:444
+msgid "Weekly"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:383
+#: includes/class-cbxrbooking-formmeta-settings.php:447
+msgid "Days of the week"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:390
+#: includes/class-cbxrbooking-formmeta-settings.php:472
+msgid "All Day Opened"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:391
+#: includes/class-cbxrbooking-formmeta-settings.php:473
+msgid "Opening Time Slots"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:394
+#: includes/class-cbxrbooking-formmeta-settings.php:478
+msgid ""
+"All Day Long.  To select specific time slot click <strong>Time Slots</strong>"
+" from above."
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:397
+#: includes/class-cbxrbooking-formmeta-settings.php:482
+#: includes/class-cbxrbooking-formmeta-settings.php:605
+#: includes/class-cbxrbooking-formmeta-settings.php:684
+msgid "Start"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:406
+#: includes/class-cbxrbooking-formmeta-settings.php:492
+#: includes/class-cbxrbooking-formmeta-settings.php:613
+#: includes/class-cbxrbooking-formmeta-settings.php:690
+msgid "End"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:420
+#: includes/class-cbxrbooking-formmeta-settings.php:510
+msgid "Move Schedule"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:421
+#: includes/class-cbxrbooking-formmeta-settings.php:511
+msgid "Delete Schedule"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:524
+msgid "Add New Schedule"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:593
+msgid "date"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:598
+#: includes/class-cbxrbooking-formmeta-settings.php:674
+msgid "All Day Closed"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:599
+#: includes/class-cbxrbooking-formmeta-settings.php:675
+msgid "Openning Time Slots"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:602
+msgid ""
+"All Day Long closed.  To select specific open time slot click <strong>Time "
+"Slots</strong> from above."
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:626
+msgid "Move Schedule Exception"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:627
+msgid "Delete Schedule Exception"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:680
+msgid ""
+"All Day Long <strong>closed</strong>.  To select specific open time slot "
+"click <strong>Time Slots</strong> from above."
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:704
+msgid "Move Exception"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:705
+msgid "Delete Exception"
+msgstr ""
+
+#: includes/class-cbxrbooking-formmeta-settings.php:714
+msgid "Add New Exception"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:52
+msgid "Y-m-d"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:53
+msgid "Y-M-D"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:54
+msgid "d-m-y"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:138
+msgid "Unverified"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:139
+msgid "Pending"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:140
+msgid "Confirmed"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:142
+msgid "Cancel Requested"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:143
+msgid "Waiting"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:144
+msgid "Seated"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:145
+msgid "Departed"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:146
+msgid "Closed"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:147
+msgid "Archived"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:148
+msgid "Trashed"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:162
+msgid "Unknown Status"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:754
+msgid "All"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:759
+msgid "Upcoming"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:764
+msgid "Today"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:769
+msgid "Previous"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:779
+#: includes/class-cbxrbooking-helper.php:781
+msgid "Between Dates"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:779
+msgid " - "
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:808
+#, php-format
+msgid "All (%d)"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:813
+#, php-format
+msgid " (%d)"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1046
+#: includes/class-cbxrbooking-helper.php:1163
+msgid "Any Time"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1047
+msgid "From 1 day in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1048
+msgid "From 1 week in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1049
+msgid "From 2 weeks in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1050
+msgid "From 30 days in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1051
+msgid "From 90 days in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1086
+msgid "Up to the last minute"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1087
+#: includes/class-cbxrbooking-helper.php:1164
+msgid "At least 15 minutes in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1088
+#: includes/class-cbxrbooking-helper.php:1165
+msgid "At least 30 minutes in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1089
+#: includes/class-cbxrbooking-helper.php:1166
+msgid "At least 45 minutes in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1090
+#: includes/class-cbxrbooking-helper.php:1167
+msgid "At least 1 hour in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1091
+#: includes/class-cbxrbooking-helper.php:1168
+msgid "At least 4 hours in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1092
+#: includes/class-cbxrbooking-helper.php:1169
+msgid "At least 24 hours in advance"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1093
+msgid "Block same-day bookings"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1128
+msgid "Every 30 minutes"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1129
+msgid "Every 15 minutes"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1130
+msgid "Every 10 minutes"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1131
+msgid "Every 5 minutes"
+msgstr ""
+
+#: includes/class-cbxrbooking-helper.php:1170
+msgid "Block same-day Cancel"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:154
+msgid "User Message"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:207
+#: includes/class-cbxrbooking-log.php:238
+msgid " (Edit)"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:297
+msgid "Filter by Branch"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:304
+#: includes/class-cbxrbooking-log.php:322
+msgid "ID:"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:309
+#: includes/class-cbxrbooking-log.php:327
+msgid "Filter"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:315
+msgid "Filter by Booking Form"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:397
+#: includes/class-cbxrbooking-log.php:403
+msgid "- Change Status to -"
+msgstr ""
+
+#: includes/class-cbxrbooking-log.php:844
+msgid "No booking found. Please change your search criteria for better result."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:155
+msgid ""
+"Sorry! Booking limit has crossed. We are not accepting any more request. "
+"Thank you."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:165
+#, php-format
+msgid ""
+"Sorry! We are not accepting any booking from your IP Address(%s). Thank you."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:287
+msgid "Booking form doesn't exists."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:295
+msgid "Sorry! Name is empty."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:300
+msgid "Sorry! Email address is empty."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:305
+msgid "Sorry! Email address in invalid."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:311
+msgid "Sorry! Phone number is empty."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:316
+msgid "Sorry! Privacy consent missing"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:325
+msgid "Sorry! Your email address is banned. Please contact site admin"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:334
+msgid "Sorry! Your ip address is banned. Please contact site admin."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:349
+#, php-format
+msgid "Sorry! Party size should be between minimum %d and maximum %d"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:391
+msgid "Sorry! Early booking rule is:"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:403
+msgid "Sorry! Booking can not be done in past date."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:409
+msgid "Sorry! Same day booking is not allowed"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:419
+msgid "Sorry! Late booking rule is:"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:527
+#: public/class-cbxrbooking-public.php:545
+msgid "Sorry! Date is not available for booking."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:532
+#: public/class-cbxrbooking-public.php:555
+msgid "Sorry! This Time is not available."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:664
+msgid ""
+"Sorry! Problem during booking request, please check again and try again."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:736
+#, php-format
+msgid ""
+"Booking validated successfully. Booking code: <code>%s</code>. No email will "
+"be sent to inform this. Site admin will check your request and booking "
+"confirmation will be set as per system setting. <a href=\"%s\">Click to go "
+"home</a>."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:740
+#, php-format
+msgid ""
+"Sorry, booking found but validation failed. Booking code: <code>%s</code>.<a "
+"href=\"%s\">Click to go home</a>."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:746
+#, php-format
+msgid ""
+"Sorry, booking not found or already validated. <a href=\"%s\">Click to go "
+"home</a>."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:774
+msgid "Booking cancel is not enabled and request can not be processed."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:775
+#: public/class-cbxrbooking-public.php:960
+#, php-format
+msgid "<p><a href=\"%s\">Click to go home</a></p>"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:819
+msgid "Sorry, You can not cancel, booking date has been passed."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:830
+msgid "Sorry! You can not cancel booking in same day."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:849
+msgid ""
+"Sorry! You can't cancel booking because minimum time before cancel expired."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:890
+msgid "Your request for canceling booking is successfully granted."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:897
+msgid ""
+"Your request for canceling booking is on processing. You will notified by "
+"email when it is canceled."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:922
+msgid "Some problem during canceling the request. Please try again."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:932
+msgid "Your requested booking cancel request is already canceled."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:938
+msgid ""
+"Your request for canceling booking is already on processing. You will "
+"notified by email when it is canceled or request is approved."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:946
+msgid "Sorry! No booking found."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1022
+#: public/class-cbxrbooking-public.php:1278
+#, php-format
+msgid ""
+"<p>To check or take action about this booking request <a href=\"%s\">click "
+"this url.</a></p>"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1153
+#, php-format
+msgid ""
+"<p>To confirm your booking request, please verify your email address by <a "
+"href=\"%s\">clicking this url.</a></p>"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1167
+#, php-format
+msgid "<p>To cancel booking please <a href=\"%s\">click this url</a></p>"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1206
+msgid "Email sent Successfully"
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1212
+msgid "Email sent failed. "
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1307
+msgid "Your request to cancel booking is notified to admin."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1409
+msgid "Booking request cancellation email is sent."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1415
+msgid "A booking cancel request pending email is sent."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1532
+msgid "Please fix this field."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1534
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1535
+msgid "Please enter a valid date."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1536
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1537
+msgid "Please enter a valid number."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1538
+msgid "Please enter only digits."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1539
+msgid "Please enter the same value again."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1540
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1541
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1542
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1543
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1544
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1545
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1546
+msgid "Please check the captcha."
+msgstr ""
+
+#: public/class-cbxrbooking-public.php:1579
+msgid "CBX Restaurant Booking Widgets"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:38
+msgid "Back to Lists"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:49
+msgid "Add/Edit Branch"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:63
+msgid "Branch Name"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:92
+msgid "Address Line"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:106
+msgid "City"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:119
+msgid "State/Province/Region"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:132
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:145
+msgid "Country"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:150
+msgid "Select Country"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:171
+#: templates/admin/add-edit-branch-manager.php:177
+msgid "Add new Branch"
+msgstr ""
+
+#: templates/admin/add-edit-branch-manager.php:172
+#: templates/admin/add-edit-branch-manager.php:175
+msgid "Update Branch"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:135
+msgid "Restaurant Booking: "
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:137
+msgid "Edit Booking "
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:140
+msgid "Add Booking "
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:147
+msgid "Go Back to List"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:150
+#: templates/admin/admin-booking-logs.php:34
+msgid "Add New Booking"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:287
+#: templates/public/cbxrbooking-public-form.php:195
+msgid "Party Size"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:352
+msgid "Notify User by Email"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:369
+msgid "Add Booking"
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:382
+msgid ""
+"Email notification is sent to user if status is changed to <code>"
+"Confirmed</code> and <code>Cancelled</code> from any previous different "
+"status. Email is sent as per form setting."
+msgstr ""
+
+#: templates/admin/admin-booking-logform.php:384
+msgid ""
+"Email notification is sent to user if status is set to <code>Confirmed</code>"
+" and <code>Pending</code>. Email is sent as per form setting."
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:30
+msgid "Restaurant Booking: Log Manager"
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:44
+msgid "Choose booking form"
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:55
+msgid "No active booking form found."
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:76
+msgid "Search Log"
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:92
+msgid "From"
+msgstr ""
+
+#: templates/admin/admin-booking-logs.php:97
+msgid "To"
+msgstr ""
+
+#: templates/admin/admin-settings-display.php:21
+msgid "CBX Booking: Setting"
+msgstr ""
+
+#: templates/admin/plugin-addons.php:76
+msgid "CBX Booking: Addons"
+msgstr ""
+
+#: templates/admin/plugin-addons.php:83
+msgid "CBX Restaurant Booking Addons"
+msgstr ""
+
+#: templates/admin/sidebar.php:10
+msgid "Help & Supports"
+msgstr ""
+
+#: templates/admin/sidebar.php:19
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: templates/admin/sidebar.php:55
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: templates/public/cbxrbooking-public-form.php:246
+#, php-format
+msgid "YES, I agree with <a target=\"_blank\" href=\"%s\">Privacy policy</a>"
+msgstr ""
+
+#: templates/public/cbxrbooking-public-form.php:261
+msgid "Submit"
+msgstr ""
+
+#: templates/public/cbxrbooking-public-form.php:277
+msgid "Powered by "
+msgstr ""
+
+#. Author of the plugin
+#: templates/public/cbxrbooking-public-form.php:279
+msgid "Codeboxr"
+msgstr ""
+
+#: widgets/cbxrbooking-widget/cbxrbooking-widget.php:37
+#: widgets/cbxrbooking-widget/cbxrbooking-widget.php:79
+#: widgets/cbxrbooking-widget/cbxrbooking-widget.php:135
+msgid "CBX Booking Widget"
+msgstr ""
+
+#: widgets/cbxrbooking-widget/cbxrbooking-widget.php:40
+msgid "Displays CBX Booking Form in Widget position"
+msgstr ""
+
+#: widgets/cbxrbooking-widget/cbxrbooking-widget.php:98
+msgid "Sorry, No booking form found."
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxrbooking-elemwidget.php:148
+msgid "Please booking form"
+msgstr ""
+
+#: widgets/vc-element/class-cbxrbooking-wpbwidget.php:54
+msgid "CBX Restaurant Booking Form"
+msgstr ""
+
+#. Description of the plugin
+#: widgets/vc-element/class-cbxrbooking-wpbwidget.php:55
+msgid "Online restaurant bookings and reservations with branch manager"
+msgstr ""
+
+#: widgets/vc-element/class-cbxrbooking-wpbwidget.php:59
+msgid "CBX Widgets"
+msgstr ""
+
+#: widgets/vc-element/class-cbxrbooking-wpbwidget.php:63
+msgid "Select Tour"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:21
+msgid "Title"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:27
+#: templates/widgets/cbxrbooking-widget/admin.php:32
+msgid "Select Form"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:55
+#, php-format
+msgid "%s (ID: %d)"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:65
+msgid "Edit Form Setting"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:67
+msgid "View All Forms"
+msgstr ""
+
+#: templates/widgets/cbxrbooking-widget/admin.php:72
+msgid "Create New Form"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-restaurant-booking-for-wordpress/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""

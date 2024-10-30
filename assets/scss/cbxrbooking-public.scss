@@ -1,0 +1,118 @@
+.cbxrbooking_wrapper .cbxrbooking-error, .cbxrbooking_wrapper .error {
+  color: red;
+}
+
+.cbxrbooking_wrapper_shortcode {}
+
+.cbxrbooking_wrapper_widget {}
+
+.cbxrbooking_wrapper_widget .col-xs-1, .cbxrbooking_wrapper_widget .col-sm-1, .cbxrbooking_wrapper_widget .col-md-1, .cbxrbooking_wrapper_widget .col-lg-1, .cbxrbooking_wrapper_widget .col-xs-2, .cbxrbooking_wrapper_widget .col-sm-2, .cbxrbooking_wrapper_widget .col-md-2, .cbxrbooking_wrapper_widget .col-lg-2, .cbxrbooking_wrapper_widget .col-xs-3, .cbxrbooking_wrapper_widget .col-sm-3, .cbxrbooking_wrapper_widget .col-md-3, .cbxrbooking_wrapper_widget .col-lg-3, .cbxrbooking_wrapper_widget .col-xs-4, .cbxrbooking_wrapper_widget .col-sm-4, .cbxrbooking_wrapper_widget .col-md-4, .cbxrbooking_wrapper_widget .col-lg-4, .cbxrbooking_wrapper_widget .col-xs-5, .cbxrbooking_wrapper_widget .col-sm-5, .cbxrbooking_wrapper_widget .col-md-5, .cbxrbooking_wrapper_widget .col-lg-5, .cbxrbooking_wrapper_widget .col-xs-6, .cbxrbooking_wrapper_widget .col-sm-6, .cbxrbooking_wrapper_widget .col-md-6, .cbxrbooking_wrapper_widget .col-lg-6, .cbxrbooking_wrapper_widget .col-xs-7, .cbxrbooking_wrapper_widget .col-sm-7, .cbxrbooking_wrapper_widget .col-md-7, .cbxrbooking_wrapper_widget .col-lg-7, .cbxrbooking_wrapper_widget .col-xs-8, .cbxrbooking_wrapper_widget .col-sm-8, .cbxrbooking_wrapper_widget .col-md-8, .cbxrbooking_wrapper_widget .col-lg-8, .cbxrbooking_wrapper_widget .col-xs-9, .cbxrbooking_wrapper_widget .col-sm-9, .cbxrbooking_wrapper_widget .col-md-9, .cbxrbooking_wrapper_widget .col-lg-9, .cbxrbooking_wrapper_widget .col-xs-10, .cbxrbooking_wrapper_widget .col-sm-10, .cbxrbooking_wrapper_widget .col-md-10, .cbxrbooking_wrapper_widget .col-lg-10, .cbxrbooking_wrapper_widget .col-xs-11, .cbxrbooking_wrapper_widget .col-sm-11, .cbxrbooking_wrapper_widget .col-md-11, .cbxrbooking_wrapper_widget .col-lg-11, .cbxrbooking_wrapper_widget .col-xs-12, .cbxrbooking_wrapper_widget .col-sm-12, .cbxrbooking_wrapper_widget .col-md-12, .cbxrbooking_wrapper_widget .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+  text-align: left !important;
+  margin-bottom: 5px !important;
+}
+
+.cbxrbooking_wrapper_widget .form-group {
+  margin-bottom: 0px !important;
+}
+
+.cbxrb-input-wrapper-privacy p.error {
+  text-align: right;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  .cbxrbooking_wrapper_shortcode .form-group,
+  .cbxrbookinglog_wrapper_logaddedit .form-group {
+    margin-bottom: 0px !important;
+  }
+
+  .cbxrb-actionbutton {
+    margin: 10px auto !important;
+  }
+
+  .cbxrbooking_wrapper_widget .cbxrb-input-wrapper,
+  .cbxrbookinglog_wrapper_logaddedit .cbxrb-input-wrapper,
+  .cbxrbooking_wrapper_shortcode .cbxrb-input-wrapper {
+    margin-bottom: 10px !important;
+  }
+
+  .cbxrb-input-wrapper-privacy .cbxrb-label {
+    padding-left: 0px;
+  }
+  .cbxrb-input-wrapper-privacy p.error {
+    text-align: left;
+  }
+}
+
+/*frontend-branding*/
+.cbxrbookingcustombootstrap .btn {
+  color: #fff !important;
+  border: 0 !important;
+  padding: 6px 12px !important;
+  border-radius: 3px !important;
+  letter-spacing: 1px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .2) !important;
+  transition: all .3s !important;
+  background: #4caf50 !important;
+}
+
+.cbxrbookingcustombootstrap .btn:hover {
+  background: #43a047 !important;
+  box-shadow: 2.736px 7.518px 20px 0 rgba(67, 160, 71, 0.15) !important;
+  color: #fff !important;
+}
+
+.cbxrbookingcustombootstrap .btn:focus,
+.cbxrbookingcustombootstrap .btn:active:focus,
+.cbxrbookingcustombootstrap .btn.active:focus,
+.cbxrbookingcustombootstrap .btn.focus,
+.cbxrbookingcustombootstrap .btn:active.focus,
+.cbxrbookingcustombootstrap .btn.active.focus {
+  outline: none !important;
+  outline-offset: 0px !important;
+}
+
+.cbxrbookingcustombootstrap .form-control {
+  border-radius: 4px !important;
+  border: 1px solid #e4e6e6 !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .2) !important;
+  font-weight: bold !important;
+}
+
+.cbxrbookingcustombootstrap .form-control:focus {
+  border-color: #43a047 !important;
+  color: #43a047;
+  box-shadow: 0 0 0 1px #43a047 !important;
+  outline: none !important;
+  outline-offset: 0px !important;
+}
+
+.cbxrbookingcustombootstrap textarea {
+  border: 1px solid #e4e6e6 !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .2) !important;
+  font-weight: bold;
+}
+
+input[type=checkbox] {
+  border-radius: 4px;
+  border: 1px solid #ccc !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3) !important;
+  transition: all 0.3s !important;
+}
+
+input[type=checkbox]:focus {
+  border-radius: 4px;
+  border-color: #43a047 !important;
+  box-shadow: 0 0 0 1px #43a047 !important;
+  outline: none !important;
+}
